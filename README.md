@@ -11,8 +11,7 @@ numpy
 re
 
 
-**Input files:
-**
+**Input files:**
 hs_code_detail.csv: Contains HS codes, descriptions, and import duties.
 compliance_rule_book.csv: Lists compliance rules, agencies, and requirements.
 
